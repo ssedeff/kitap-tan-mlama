@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\class-orenek\class-orenek\bin\Debug\class-orenek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\class-orenek\class-orenek\bin\Debug\class-orenek.exe
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\class-orenek\class-orenek\bin\Debug\class-orenek.pdb
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\class-orenek\class-orenek\obj\Debug\class-orenek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\class-orenek\class-orenek\obj\Debug\class-orenek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\class-orenek\class-orenek\obj\Debug\class_orenek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\class-orenek\class-orenek\obj\Debug\class_orenek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\class-orenek\class-orenek\obj\Debug\class-orenek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\class-orenek\class-orenek\obj\Debug\class-orenek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\class-orenek\class-orenek\obj\Debug\class-orenek.exe
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\class-orenek\class-orenek\obj\Debug\class-orenek.pdb
